@@ -1,5 +1,6 @@
 These are the codes to accompany my Independent Studies report titled:
 “The neural basis of cross-modal numerosity perception: Stimuli generation and EEG pilot”
+The report can be found at: https://dx.doi.org/10.6084/m9.figshare.3435323.v1
 
 The description of what the codes do is in the report. The codes themselves contain descriptions of their functions too.
 
